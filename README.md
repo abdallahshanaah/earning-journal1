@@ -11,7 +11,7 @@ about git and github and how to copy our github repo to our computer and edit it
 
 
 
-## anther slass
+## onther class
 + htnl [html](https://www.w3schools.com/html/)
 + css [css](https://www.w3schools.com/css/)
 - javascript [js](https://www.w3schools.com/js/)
